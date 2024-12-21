@@ -1,0 +1,22 @@
+this is simple file
+
+
+copy URL
+git branch
+git add .
+git commit -m "first"
+git push -u origin main
+git branch 
+   #*master
+
+   git push -u origin master
+
+
+
+
+git pull
+git push -u origin master
+git pull origin master
+git add .
+git commit -m "second"
+git push -u orgin master
